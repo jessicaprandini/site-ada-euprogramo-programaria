@@ -3,12 +3,26 @@ body{
   font-family:Open Sans,sans-serif;
   background-color:#8a71c9;
   color:#ffffff;
+  margin: 0;
 }
 
 h2{
   color:#2a0074;
 }
 
-h3{
+.titulo-verde{
   color:#04ff9f
+}
+
+.titulo-vermelho{
+  color:#FF9E9E
+}
+
+.titulo-amarelo{
+  color:#ffe36d
+}
+
+section{
+ max-width:60%;
+ margin: 0 auto;
 }
